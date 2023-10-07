@@ -7,10 +7,10 @@ import pickle
 
 app = Flask(__name__)
 
-model = pickle.load(open("brainTumorDataset.pkl", "rb"))
+model = pickle.load(open("classifier.pkl", "rb"))
 
 
-@app.route("/predict", methods=["POST"])
+@app.route("/predictDTreeTest", methods=["POST"])
 def predict():
     json_ = request.json
     query_df = pd.DataFrame(json_)

@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 import pickle
 
-data = pd.read_csv("brain_tumor_dataset_final.csv")
+data = pd.read_csv("brain_tumor_dataset.csv")
 
 print(data.head())
 

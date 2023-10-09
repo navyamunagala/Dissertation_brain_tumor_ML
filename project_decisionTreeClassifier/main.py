@@ -7,7 +7,7 @@ import pickle
 
 app = Flask(__name__)
 
-model = pickle.load(open("classifier.pkl", "rb"))
+model = pickle.load(open("classifier_DecisionTree.pkl", "rb"))
 
 
 @app.route("/predictDTreeTest", methods=["POST"])

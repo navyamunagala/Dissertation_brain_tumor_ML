@@ -45,7 +45,7 @@ Patient ID,AffectedArea,severity,Age,Treatment,Size,Class
 44,1017,6002,65,1,0.8,GlomusJugulare
 45,6008,3012,60,0,0.8,Meningiomas
 46,4002,6002,55,1,0.9,Chordomas
-47,5000,6002,10,1,0.9,Craniopharyngiomas
+47,0,0,0,0,0,Craniopharyngiomas
 48,5009,6002,20,1,0.9,Gangliocytomas
 49,1017,6002,65,1,0.9,GlomusJugulare
 50,6008,3012,60,0,0.9,Meningiomas
@@ -68,7 +68,7 @@ Patient ID,AffectedArea,severity,Age,Treatment,Size,Class
 67,6008,3012,60,0,1.4,Meningiomas
 68,4002,6002,55,1,1.5,Chordomas
 69,5000,6002,10,1,1.5,Craniopharyngiomas
-70,5009,6002,20,1,1.5,Gangliocytomas
+70,0,0,0,0,0,Gangliocytomas
 71,6008,3012,60,0,1.5,Meningiomas
 72,4002,6002,55,1,1.6,Chordomas
 73,5000,6002,10,1,1.6,Craniopharyngiomas
@@ -93,7 +93,7 @@ Patient ID,AffectedArea,severity,Age,Treatment,Size,Class
 92,5000,6002,10,1,2.1,Craniopharyngiomas
 93,6008,3012,60,0,2.1,Meningiomas
 94,5000,6002,10,1,2.1,Craniopharyngiomas
-95,5000,6002,10,1,2.2,Craniopharyngiomas
+95,0,0,0,0,0,Craniopharyngiomas
 96,5000,6002,8,1,2.3,Craniopharyngiomas
 97,5000,6002,9,1,2.4,Craniopharyngiomas
 98,5000,6002,8,1,2.5,Craniopharyngiomas
@@ -115,7 +115,7 @@ Patient ID,AffectedArea,severity,Age,Treatment,Size,Class
 114,6008,3012,60,0,2.1,Meningiomas
 115,6008,3012,50,0,2.2,Meningiomas
 116,6008,3012,55,0,2.3,Meningiomas
-117,6008,3012,54,0,2.4,Meningiomas
+117,0,3012,0,0,0,Meningiomas
 118,6008,3012,53,0,2.5,Meningiomas
 119,6008,3012,51,0,2.6,Meningiomas
 120,6008,3012,50,0,2.7,Meningiomas
@@ -171,7 +171,7 @@ Patient ID,AffectedArea,severity,Age,Treatment,Size,Class
 170,5009,6002,20,1,0.3,Gangliocytomas
 171,1017,6002,65,1,0.3,GlomusJugulare
 172,6008,3012,60,0,0.3,Meningiomas
-173,4002,6002,55,1,0.4,Chordomas
+173,0,6002,55,0,0,Chordomas
 174,5000,6002,10,1,0.4,Craniopharyngiomas
 175,5009,6002,20,1,0.4,Gangliocytomas
 176,1017,6002,65,1,0.4,GlomusJugulare
